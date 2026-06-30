@@ -6,3 +6,5 @@ Requirements
 	pytorch==2.1.2
 	pytorch-cuda==11,8
 	rdkit==2022.9.5
+Operating Mode
+	python training.py 1 0 0   
