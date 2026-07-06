@@ -1,4 +1,4 @@
-# HGHMDTA
+# MLIDTA
 # Source codes:
 create_data.py: create data in pytorch format
 
